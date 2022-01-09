@@ -1,6 +1,6 @@
 '''hello! this is an instagram  bot that automatically comments on people's post using hashtags
 you can simple put your instagram username and passwordand choose your hashtag that you want to comment in and then just
-wait for your likes and nteractions comig back to your account
+wait for your likes and nteractions coming back to your account
 this way is way better then doing it manually, this will alsosave a ot of time serfing instagrm and work by yourself, guys feel free
 to use the code but tag my name soeverything will be ok'''
 
